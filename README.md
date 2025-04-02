@@ -4,7 +4,7 @@ A simple Udemy Clone website built using HTML and CSS, designed to replicate the
 platform.
 
 View
-
+You can access my portfolio website by visiting [https://mahalakshmis20.github.io/Udemy-clone/]. Feel free to explore content and get in touch!!
 
 ✨ Features
 ✅ Modern & Responsive Design – Works on all screen sizes (mobile, tablet, and desktop)
